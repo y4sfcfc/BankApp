@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\PB501Yusif\BankApp\BankApp\obj\Debug\net8.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\PB501Yusif\BankApp\BankApp\obj\Debug\net8.0\BankApp.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\PB501Yusif\BankApp\BankApp\obj\Debug\net8.0\BankApp.AssemblyInfo.cs
+C:\Users\asus\Desktop\PB501Yusif\BankApp\BankApp\obj\Debug\net8.0\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\PB501Yusif\BankApp\BankApp\bin\Debug\net8.0\BankApp.exe
+C:\Users\asus\Desktop\PB501Yusif\BankApp\BankApp\bin\Debug\net8.0\BankApp.deps.json
+C:\Users\asus\Desktop\PB501Yusif\BankApp\BankApp\bin\Debug\net8.0\BankApp.runtimeconfig.json
+C:\Users\asus\Desktop\PB501Yusif\BankApp\BankApp\bin\Debug\net8.0\BankApp.dll
+C:\Users\asus\Desktop\PB501Yusif\BankApp\BankApp\bin\Debug\net8.0\BankApp.pdb
+C:\Users\asus\Desktop\PB501Yusif\BankApp\BankApp\obj\Debug\net8.0\BankApp.dll
+C:\Users\asus\Desktop\PB501Yusif\BankApp\BankApp\obj\Debug\net8.0\refint\BankApp.dll
+C:\Users\asus\Desktop\PB501Yusif\BankApp\BankApp\obj\Debug\net8.0\BankApp.pdb
+C:\Users\asus\Desktop\PB501Yusif\BankApp\BankApp\obj\Debug\net8.0\BankApp.genruntimeconfig.cache
+C:\Users\asus\Desktop\PB501Yusif\BankApp\BankApp\obj\Debug\net8.0\ref\BankApp.dll
